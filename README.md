@@ -31,5 +31,5 @@ $ python create_key_pair.py
 
 * The create_instance.py file will create an instance with access using the pem key created earlier:
 ```
-$ python create_key_pair.py
+$ python create_instance.py
 ```
